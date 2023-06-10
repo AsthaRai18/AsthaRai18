@@ -18,7 +18,6 @@
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JAVA" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
-<img align="left" alt="PHP" width="30px" height="30px" src="https://www.phpflow.com/wp-content/uploads/2020/11/php_8.png"> 
 <img align="left" alt="C" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
 <img align="left" alt="C++" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Django" width="30px" height="30px" src="https://studygyaan.com/wp-content/uploads/2021/12/CicamXxN_400x400-1.jpg?ezimgfmt=rs%3Adevice%2Frscb1-1"> 
