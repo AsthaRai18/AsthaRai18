@@ -37,22 +37,13 @@
 ---
 
 ## 🎯 Stats:
-[<img src="https://komarev.com/ghpvc/?username=shivanshjoshi28&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/shivanshjoshi28)
+[<img src="https://komarev.com/ghpvc/?username=AsthaRai18&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/AsthaRai18)
 
-<img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivanshjoshi28&show_icons=true&count_private=true&theme=tokyonight" />
 
-## Projects Link:
-🚚[Dart-Xpress](https://github.com/shivanshjoshi28/Dart_Xpress)
-<br/>
-🦠[CoviWarn](https://coviwarn.herokuapp.com/)
-<br/>
-🏠[Roommate](http://roommate.techmihirnaik.in/)
-<br/>
-💻[AR Soduko Solver](https://github.com/shivanshjoshi28/Sudoku-Solver-Computer-Vision)
 ## 📝 Language stats:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshjoshi28&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsthaRai18&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
