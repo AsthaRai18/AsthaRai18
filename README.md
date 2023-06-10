@@ -4,13 +4,12 @@
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">I'm a 2023 Undergrad.
 
-- 🔭 I’m currently working at `Wingify` as a `Software Engineer Intern`
-- 🌱 I’m currently learning `Data Structures and Algorithms`
+- 🔭 I’m currently working as an `Associate Software Engineer Intern` at `Teradata`
 - 👯 Open to collaborate.
-- 📫 Contact me at **joshishivansh28012001@gmail.com**
-- ✉️ Contact me at **shivanshjoshi_19021333.cse@geu.ac.in**
-- 📱Whatsapp me on **91-6395242871**
-- 🔗LinkedIn **https://www.linkedin.com/in/shivansh-joshi-b05044199/**
+- 📫 Contact me at **raiastha18042001@gmail.com**
+- ✉️ Contact me at **astha.rai@teradata.com**
+- 📱Whatsapp me on **91-9518096858**
+- 🔗LinkedIn **https://www.linkedin.com/in/astha-rai-149b311b7/**
 <br/>
 
 ---
