@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">I'm a 2023 Undergrad.
 
-- 🔭 I’m currently working as an `Associate Software Engineer Intern` at `Teradata`
+- 🔭 I’m currently working as ` Software Engineer ` at `BNY Mellon`
 - 👯 Open to collaborate.
 - 📫 Contact me at **raiastha18042001@gmail.com**
 - ✉️ Contact me at **astha.rai@teradata.com**
