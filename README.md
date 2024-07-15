@@ -2,7 +2,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">I'm a 2023 Undergrad.
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">I'm a Software Engineer.
 
 - 🔭 I’m currently working as ` Software Engineer ` at `BNY Mellon`
 - 👯 Open to collaborate.
