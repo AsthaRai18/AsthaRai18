@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as ` Software Engineer ` at `BNY Mellon`
 - 👯 Open to collaborate.
 - 📫 Contact me at **raiastha18042001@gmail.com**
-- ✉️ Contact me at **astha.rai@teradata.com**
+- ✉️ Contact me at **astha.rai@bny.com**
 - 📱Whatsapp me on **91-9518096858**
 - 🔗LinkedIn **https://www.linkedin.com/in/astha-rai-149b311b7/**
 <br/>
